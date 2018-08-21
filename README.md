@@ -9,3 +9,4 @@ f7
 f8-mirror
 f9-mirror
 f9-mirror.1
+f12
